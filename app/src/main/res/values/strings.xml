@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Blaze</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_thermalimage">thermalimage</string>
+    <string name="title_activity_thermalsettings">thermalsettings</string>
+    <string name="title_activity_resultsthermal">resultsthermal</string>
+    <string name="title_activity_maxhot">maxhot</string>
+</resources>
